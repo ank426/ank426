@@ -1,7 +1,7 @@
 # Hi, I'm Ankit Avinash
 
 ## About Me
-Masters Student at Brown University, majoring in Computer Science.
+Masters Student at Brown University, majoring in Computer Science.\
 Passionate about Machine Learning and Backend Engineering.
 
 ## How to Reach Me:
