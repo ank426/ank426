@@ -1,4 +1,4 @@
-![Hi, I'm Ankit Avinash](https://readme-typing-svg.demolab.com?font=JetBrainsMono&pause=1000&width=435&lines=Hi%2C+I'm+Ankit+Avinash)
+![Hi, I'm Ankit Avinash](./readme-typing-svg.demolab.svg)
 
 ## About Me
 Masters Student at Brown University, majoring in Computer Science.\
