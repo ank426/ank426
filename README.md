@@ -2,7 +2,7 @@
 
 ## About Me
 Masters Student at Brown University, majoring in Computer Science.\
-Passionate about Machine Learning and Backend Engineering.
+Passionate about Machine Learning and Backend Engineering.\
 Won a `tinygrad` bounty: [PR](https://github.com/tinygrad/tinygrad/pull/8792)
 
 ## How to Reach Me:
