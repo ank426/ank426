@@ -1,4 +1,4 @@
-# Hi, I'm Ankit Avinash
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Ankit+Avinash)](https://git.io/typing-svg)
 
 ## About Me
 Masters Student at Brown University, majoring in Computer Science.\
