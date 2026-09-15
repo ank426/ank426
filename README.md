@@ -12,7 +12,6 @@ Won a `tinygrad` [bounty](https://github.com/tinygrad/tinygrad/pull/8792).
 ![C](https://img.shields.io/badge/C-1d2021?logo=c&logoColor=A8B9CC)
 ![Bash](https://img.shields.io/badge/Bash-1d2021?logo=gnubash&logoColor=4EAA25)
 ![C++](https://img.shields.io/badge/C%2B%2B-1d2021?logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-1d2021?logo=openjdk&logoColor=ED8B00)
 \
 \
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1d2021?logo=archlinux&logoColor=%231793D1)
