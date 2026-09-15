@@ -14,5 +14,6 @@ Won a `tinygrad` [bounty](https://github.com/tinygrad/tinygrad/pull/8792).
 ![C++](https://img.shields.io/badge/C%2B%2B-1d2021?logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-1d2021?logo=openjdk&logoColor=ED8B00)
 \
-![Neovim](https://img.shields.io/badge/Neovim-1d2021?logo=neovim&logoColor=57A143)
+\
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1d2021?logo=archlinux&logoColor=%231793D1)
+![Neovim](https://img.shields.io/badge/Neovim-1d2021?logo=neovim&logoColor=57A143)
