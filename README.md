@@ -6,4 +6,4 @@ Passionate about Machine Learning and Backend Engineering.
 
 ## How to Reach Me:
 - Email: ankit.avinash@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ank426/
+- LinkedIn: [linkedin.com/in/ank426](https://www.linkedin.com/in/ank426/)
