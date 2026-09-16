@@ -29,4 +29,4 @@ Won a `tinygrad` [bounty](https://github.com/tinygrad/tinygrad/pull/8792).
 \
 \
 \
-![XKCD 456: Cautionary](https://imgs.xkcd.com/comics/cautionary.png)
+![https://xkcd.com/456/](https://imgs.xkcd.com/comics/cautionary.png)
