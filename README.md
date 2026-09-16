@@ -27,5 +27,4 @@ Won a `tinygrad` [bounty](https://github.com/tinygrad/tinygrad/pull/8792).
 ![Prometheus](https://img.shields.io/badge/Prometheus-1d2021?logo=prometheus&logoColor=E6522C)
 ![Terraform](https://img.shields.io/badge/Terraform-1d2021?logo=terraform&logoColor=7B42BC)
 
-## Favorite XKCD
 ![https://xkcd.com/456/](https://imgs.xkcd.com/comics/cautionary.png)
